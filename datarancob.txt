@@ -1,0 +1,17 @@
+Periode	Rataan Kandungan Lemak (%)	Treatment	Formulasi
+P1	P1	A	4.22
+P1	P2	B	4.12
+P1	P3	C	4.10
+P1	P4	D	3.88
+P2	P1	B	4.45
+P2	P2	D	4.20
+P2	P3	A	3.95
+P2	P4	C	3.81
+P3	P1	C	4.27
+P3	P2	A	4.11
+P3	P3	D	4.81
+P3	P4	B	3.51
+P4	P1	D	4.42
+P4	P2	C	4.19
+P4	P3	B	4.01
+P4	P4	A	3.41
